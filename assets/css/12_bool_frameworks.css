@@ -114,7 +114,7 @@
 
 /* Con questa soluzione vado a fare in modo che quando vado ad utilizzare le varie classi in base al dispositivo il contenuto si addatta in base alla grandezza del dispositivo su cui vado ad utilizzare il tutto */
 
-@media screen and (max-widht: 767px) {
+@media screen and (max-width: 767px) {
 
     /************************* WIDTH  XS *************************/
     .col-xs-1{
@@ -192,7 +192,7 @@
 }
 
 
-@media screen and (min-widht: 768px) and (max-widht: 991px) {
+@media screen and (min-width: 768px) and (max-width: 991px) {
 
     /************************* WIDTH MD *************************/
     .col-md-1{
@@ -269,7 +269,7 @@
     }
 }
 
-@media screen and (min-widht: 992px) {
+@media screen and (min-width: 992px) {
 
     /************************* WIDTH LG *************************/
     .col-lg-1{
